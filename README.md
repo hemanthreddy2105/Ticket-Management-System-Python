@@ -1,10 +1,6 @@
 # Ticket-Management-System-Python
 A Python-based Ticket Management System using OOP concepts, CRUD operations, exception handling, inheritance, and file handling.
 
-# Ticket Management System
-
-## Project Overview
-
 The Ticket Management System is a Python-based console application designed to manage customer support tickets. The project demonstrates Object-Oriented Programming (OOP) concepts, CRUD operations, exception handling, inheritance, and file handling.
 
 ## Features
